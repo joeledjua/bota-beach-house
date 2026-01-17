@@ -127,7 +127,7 @@ export default function AreaPage() {
               <h2 className="text-4xl font-bold mb-6">About Bota</h2>
               <div className="space-y-4 text-gray-700 leading-relaxed">
                 <p>
-                  Bota is a picturesque coastal village located in the Limbe subdivision of Cameroon's 
+                  Bota is a picturesque coastal village located in the Limbe subdivision of Cameroon&apos;s 
                   Southwest Region. Known for its stunning black volcanic sand beaches and proximity to 
                   Mount Cameroon, Bota offers a unique blend of natural beauty and cultural richness.
                 </p>
@@ -138,7 +138,7 @@ export default function AreaPage() {
                 </p>
                 <p>
                   With easy access to Limbe town and its attractions, Bota serves as a perfect base for 
-                  exploring the region's diverse offerings, from wildlife sanctuaries to historical sites, 
+                  exploring the region&apos;s diverse offerings, from wildlife sanctuaries to historical sites, 
                   all while enjoying the tranquility of a beachfront location.
                 </p>
               </div>

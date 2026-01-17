@@ -116,7 +116,7 @@ export default function Home() {
             <p className="text-lg text-gray-700 leading-relaxed">
               Nestled along the beautiful coastline of Bota, our beach house offers the perfect blend of 
               luxury and comfort. With direct beach access, modern amenities, and breathtaking ocean views, 
-              this is your ideal destination for a memorable vacation. Whether you're planning a family 
+              this is your ideal destination for a memorable vacation. Whether you&apos;re planning a family 
               getaway, romantic retreat, or adventure with friends, our spacious property provides everything 
               you need for an unforgettable stay.
             </p>
@@ -200,7 +200,7 @@ export default function Home() {
         <div className="section-container text-center">
           <h2 className="text-4xl font-bold mb-4">Ready to Book Your Stay?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Don't miss out on the opportunity to experience this coastal paradise. 
+            Don&apos;t miss out on the opportunity to experience this coastal paradise. 
             Contact us today to check availability and make your reservation.
           </p>
           <Link href="/booking" className="btn-primary bg-white text-primary-600 hover:bg-gray-100 text-lg inline-block">

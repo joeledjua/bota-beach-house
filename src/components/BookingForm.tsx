@@ -221,7 +221,7 @@ export default function BookingForm() {
       {submitStatus === 'success' && (
         <div className="bg-green-50 border border-green-200 text-green-800 px-4 py-3 rounded-lg">
           <p className="font-medium">Booking inquiry submitted successfully!</p>
-          <p className="text-sm mt-1">We'll get back to you shortly to confirm your reservation.</p>
+          <p className="text-sm mt-1">We&apos;ll get back to you shortly to confirm your reservation.</p>
         </div>
       )}
 
