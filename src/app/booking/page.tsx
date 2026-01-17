@@ -74,15 +74,15 @@ export default function BookingPage() {
               <div className="space-y-3">
                 <div className="flex justify-between">
                   <span className="text-gray-700">Weeknight</span>
-                  <span className="font-semibold">$150 / night</span>
+                  <span className="font-semibold">90,000 XAF / night</span>
                 </div>
                 <div className="flex justify-between">
                   <span className="text-gray-700">Weekend</span>
-                  <span className="font-semibold">$200 / night</span>
+                  <span className="font-semibold">120,000 XAF / night</span>
                 </div>
                 <div className="flex justify-between">
                   <span className="text-gray-700">Weekly Rate</span>
-                  <span className="font-semibold">$900 / week</span>
+                  <span className="font-semibold">540,000 XAF / week</span>
                 </div>
                 <div className="pt-3 border-t border-primary-300">
                   <p className="text-sm text-gray-600">
